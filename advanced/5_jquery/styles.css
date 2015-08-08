@@ -1,0 +1,13 @@
+body {
+  background: #000008;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.text {
+  font-size: 200px;
+  font-weight: 700;
+  font-family: serif;
+  color: #bbc;
+  text-shadow: 0 0 45px #44a, 0 0 90px #77e;
+}

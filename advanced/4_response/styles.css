@@ -1,0 +1,11 @@
+body {
+  background: #000008;
+}
+
+#draw {
+  position: absolute;
+  font-weight: 700;
+  font-family: serif;
+  color: #bbc;
+  text-shadow: 0 0 45px #44a, 0 0 90px #77e;
+}
