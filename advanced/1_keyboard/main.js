@@ -4,7 +4,9 @@ var freq = 440;
 
 // キーボードを押すと音程を設定して音を鳴らす
 document.onkeydown = function(e) {
+   // キーコード49「1」が押されたらノートナンバー60(ド)
    var note_no = e.keyCode - 49 + 60;
+   // ノートナンバーから周波数を計算
    freq = 440.0 * Math.pow(2.0, (note_no - 69.0) / 12.0);
    noteon();
 }
