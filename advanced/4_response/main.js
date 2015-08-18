@@ -51,3 +51,11 @@ function showChar(level) {
   div.style.left = (500 - div.offsetWidth / 2) + 'px';
 }
 
+
+
+
+
+
+
+
+

@@ -16,7 +16,7 @@ function play() {
       osc = ctx.createBufferSource();
       osc.buffer = wav;
       // 再生速度 0.1〜5
-      osc.playbackRate.value = 1.0;
+      //osc.playbackRate.value = 1.0;
       osc.connect(ctx.destination);
       osc.start();
   } else {
@@ -31,4 +31,12 @@ document.onkeydown = function(e) {
   if (e.keyCode === 40)
     osc.playbackRate.value /= 1.2;
 };
+
+
+
+
+
+
+
+
 
