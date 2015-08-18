@@ -14,7 +14,7 @@ http://ccss.lab.sugimototatsuo.com/2015/
 - [入門編](https://github.com/aike/ccss2015/tree/master/basic)
 	- [音を鳴らす](https://github.com/aike/ccss2015/tree/master/basic/1_oscillator) [Demo](http://aikelab.net/ccss2015/1_oscillator)
 	- [Playボタンの作成](https://github.com/aike/ccss2015/tree/master/basic/2_playbutton) [Demo](http://aikelab.net/ccss2015/2_playbutton)
-	- [ 音量を下げる ](htts://github.com/aike/ccss2015/tree/master/basic/3_gain) [Demo](http://aikelab.net/ccss2015/3_gain)
+	- [音を小さくする](htts://github.com/aike/ccss2015/tree/master/basic/3_gain) [Demo](http://aikelab.net/ccss2015/3_gain)
 	- [波形、音程の変更](https://github.com/aike/ccss2015/tree/master/basic/4_waveform) [Demo](http://aikelab.net/ccss2015/4_waveform)
 	- [サウンドファイルの再生](https://github.com/aike/ccss2015/tree/master/basic/5_soundfile) [Demo](http://aikelab.net/ccss2015/5_soundfile)
 - [実践編](https://github.com/aike/ccss2015/tree/master/advanced)
