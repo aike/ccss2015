@@ -1,13 +1,13 @@
 CCSS2015
 ---
-クリエイティブ・コーディング・スクール in さっぽろ 2015 JavaScript編の資料とプログラム一式です。
+クリエイティブ・コーディング・スクール in さっぽろ 2015 JavaScript編 資料とプログラム一式
 http://ccss.lab.sugimototatsuo.com/2015/
 
-## 資料
+## 資料(PDF)
 
-- [イントロダクション](https://github.com/aike/ccss2015/raw/master/introduction.pdf)
-- [入門編](https://github.com/aike/ccss2015/raw/master/basic.pdf)
-- [実践編](https://github.com/aike/ccss2015/raw/master/advanced.pdf)
+- [イントロダクション](https://github.com/aike/ccss2015/blob/master/introduction.pdf)
+- [入門編](https://github.com/aike/ccss2015/blob/master/basic.pdf)
+- [実践編](https://github.com/aike/ccss2015/blob/master/advanced.pdf)
 
 ## プログラム
 
