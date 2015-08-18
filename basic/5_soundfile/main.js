@@ -6,7 +6,8 @@ fetch('vocal.mp3').then(function(res) {
 }).then(function(arr) {
   ctx.decodeAudioData(arr, function(buf) {
     wav = buf;
-    play();
+    document.querySelector('#loading').style.display = 'none';
+    document.querySelector('#btn').style.display = 'block';
   });
 });
 
