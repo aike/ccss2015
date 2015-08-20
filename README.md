@@ -28,8 +28,10 @@ http://ccss.lab.sugimototatsuo.com/2015/
 ## クレジット
 Copyright (c) 2015 aike  
 This software is licenced under the MIT License.  
+Contact: twitter @aike1000  
+  
 "Amazing_Grace_by_Queenie" by [queeniemusic](http://ccmixter.org/files/queeniemusic/29835)  
 2010 - Licensed under Creative Commons Attribution (3.0)  
+  
 jRumble is licenced under the MIT License.  
 Copyright (c) 2012 Jack Rugile, http://jackrugile.com  
-Contact: twitter @aike1000  
