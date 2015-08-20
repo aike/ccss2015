@@ -26,8 +26,10 @@ http://ccss.lab.sugimototatsuo.com/2015/
 	- [マウスとキャンバスの使用](https://github.com/aike/ccss2015/tree/master/advanced/6_canvas) [(Demo)](http://aikelab.net/ccss2015/advanced/6_canvas)
 
 ## クレジット
-Sample program is licenced under MIT License.  
-Programming by aike  
+Copyright (c) 2015 aike  
+This software is licenced under the MIT License.  
 "Amazing_Grace_by_Queenie" by [queeniemusic](http://ccmixter.org/files/queeniemusic/29835)  
 2010 - Licensed under Creative Commons Attribution (3.0)  
+jRumble is licenced under the MIT License.  
+Copyright (c) 2012 Jack Rugile, http://jackrugile.com  
 Contact: twitter @aike1000  
